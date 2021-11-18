@@ -1,4 +1,4 @@
-// Q3.C C++ program for Hybrid Inheritance
+// Q4b C++ program for Hybrid Inheritance
 
 #include <iostream>
 using namespace std;
